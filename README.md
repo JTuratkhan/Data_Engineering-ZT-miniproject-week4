@@ -1,5 +1,7 @@
 [![Python Matrix Build](https://github.com/JTuratkhan/ZT-miniproject-week4/actions/workflows/cicd.yml/badge.svg?branch=main)](https://github.com/JTuratkhan/ZT-miniproject-week4/actions/workflows/cicd.yml)
 
+## ZT-miniproject-week4
+
 # Setting up a Repo and adding a Python Project
 Let's consider a simple Python project that should run on different versions of Python. This project has a file names 'main.py' and a file names 'test_main.py' for testing.
 
